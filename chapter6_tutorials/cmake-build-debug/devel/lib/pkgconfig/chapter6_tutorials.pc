@@ -1,0 +1,8 @@
+prefix=/home/lucifr/catkin_ws/src/chapter6_tutorials/cmake-build-debug/devel
+
+Name: chapter6_tutorials
+Description: Description of chapter6_tutorials
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/lucifr/catkin_ws/src/chapter6_tutorials/cmake-build-debug/devel/lib 
+Requires: 

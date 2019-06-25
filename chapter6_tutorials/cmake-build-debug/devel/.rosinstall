@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/lucifr/catkin_ws/src/chapter6_tutorials/cmake-build-debug/devel/setup.sh
